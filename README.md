@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Eu sou o Giovani Vioto, estudante de Engenharia de Software e comunicador fluênte em 3 línguas!
 
-<!--
-**giovanivioto/giovanivioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com desenvolvimento de uma start-up de hospedagem de sites por assinatura mensal;
+- 🌱 Estudando Angular, Java, .Net, Estruturas de Dados;
+- 👯 Formado em Tecnologia em Automação e em curso Engenharia de Software da FIAP, atualmente procuro ingresso no mercado de TI;
+- 🤔 Movimentação lateral de carreira;
+- ✔  Mais de 5 anos de experiências com Softwares e Automação; 
+- 📫 Contate-me no email: giovanivioto@gmail.com;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
