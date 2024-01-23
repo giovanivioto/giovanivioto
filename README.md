@@ -6,7 +6,10 @@
 - 🤔 Movimentação lateral de carreira para Tecnologia da Informação;
 - ✔  Mais de 5 anos de experiências com Softwares e Automação; 
 - 📫 Contate-me no email: giovanivioto@gmail.com;
-
+##
+<div style="display: inline-block;"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+</div>
 
 
 
